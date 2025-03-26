@@ -89,3 +89,7 @@ Important:
 - All list inputs must be in integer format (e.g. 1 instead of 1.0)
 
 The directory `example_csv_files` contains two example files that can be uploaded via streamlit. 
+
+## Authors
+Viola Meier
+Andrin Müller
