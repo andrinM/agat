@@ -1,0 +1,15 @@
+{
+    "settings": {
+      "working_directory": ".",
+      "scripts": {
+        "evaluation": {
+          "script": "evaluation.py",
+          "command": "python"
+        },
+        "home": {
+          "script": "home.py",
+          "command": "streamlit run"
+        }
+      }
+    }
+}
