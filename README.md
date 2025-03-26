@@ -91,5 +91,5 @@ Important:
 The directory `example_csv_files` contains two example files that can be uploaded via streamlit. 
 
 ## Authors
-Viola Meier
+Viola Meier \
 Andrin Müller
